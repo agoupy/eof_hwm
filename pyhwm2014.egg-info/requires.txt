@@ -1,0 +1,4 @@
+nose
+numpy
+pathlib2
+timeutil

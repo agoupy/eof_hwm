@@ -1,0 +1,16 @@
+Metadata-Version: 1.2
+Name: pyhwm2014
+Version: 1.1.0
+Summary: HWM14 neutral winds model
+Home-page: https://github.com/rilma/pyHWM14
+Author: ['Ronald Ilma', 'Michael Hirsch, Ph.D']
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Scientific/Engineering :: Atmospheric Science
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=2.7
